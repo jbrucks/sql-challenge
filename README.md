@@ -18,4 +18,4 @@ From this I created the tables to hold data in the CSVs, imported the CSVs into 
 - Listed first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
 - Listed all employees in the Sales department, including their employee number, last name, first name, and department name.
 - Listed all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
-- In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+- In descending order, listed the frequency count of employee last names, i.e., how many employees share each last name.
